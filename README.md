@@ -3,7 +3,7 @@ Bandeiras Criadas em HTML e CSS puro
 
 Resultados:
 
-<h2>Dinamarca</h2>
+<a href='Bandeiras/Imagens/dinamarca.png'>Dinamarca</a>
 <img src='Bandeiras/Imagens/dinamarca.png'>
 
 <h2>Ucrânia</h2>
