@@ -1,0 +1,511 @@
+.bandeira {
+    width: 400px;
+    height: 240px;
+    border: 1px solid black;
+}
+
+section {
+    width: 400px;
+    height: 240px;
+    border: 1px solid black;
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    margin-left: 700px;
+}
+
+#titulo {
+    margin-left: -30px;
+}
+
+
+
+/* Bandeira Dinamarca */
+
+#vermelhoDinamarca {
+    background-color: rgb(196, 14, 14);
+    width: 400px;
+    height: 240px;
+}
+
+#listraV {
+    background-color: white;
+    margin-left: 100px;
+    width: 40px;
+    height: 250px;
+}
+
+#listraH {
+    background-color: white;
+    width: 420px;
+    height: 40px;
+    margin-top: -145px;
+}
+
+
+
+
+
+/* Bandeira Russia */
+
+#russia {
+    margin-top: 100px;  
+}
+
+#brancoRussia {
+    background-color: white;
+    width: 400px;
+    height: 80px;  
+}
+
+#azulRussia {
+    background-color: blue;
+    width: 400px;
+    height: 80px;  
+}
+
+#vermelhoRussia {
+    background-color: red;
+    width: 400px;
+    height: 80px;  
+}
+
+
+
+
+
+/* Bandeira Ucrânia */
+
+#ucrania {
+    margin-top: 110px;  
+}
+
+#azulUcrania {
+    background-color:#005bbb;
+    width: 400px;
+    height: 120px;
+}
+
+#amareloUcrania {
+    background-color:#ffd500;
+    width: 400px;
+    height: 120px;
+}
+
+
+
+
+
+/* Bandeira EUA */
+
+#eua {
+    margin-top: 110px;  
+}
+
+#bandeiraEua {
+    width: 400px;
+    height: 260px;
+    border: 1px solid black;
+}
+
+#estrelasEua {
+    background-color: #3c3b6e;
+    width: 160px;
+    height: 140px;
+}
+
+#vermelhoEua1 {
+    background-color: #af0b26;
+    width: 240px;
+    height: 20px;
+    margin-top: -140px;
+    margin-left: 160px;
+}
+
+#brancoEua1 {
+    background-color: white;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+
+#vermelhoEua2 {
+    background-color: #af0b26;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+#brancoEua2 {
+    background-color: white;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+
+#vermelhoEua3 {
+    background-color: #af0b26;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+#brancoEua3 {
+    background-color: white;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+#vermelhoEua4 {
+    background-color: #af0b26;
+    width: 240px;
+    height: 20px;
+    margin-left: 160px; 
+}
+#brancoEua4 {
+    background-color: white;
+    width: 400px;
+    height: 20px;    
+}
+
+#vermelhoEua5 {
+    background-color: #af0b26;
+    width: 400px;
+    height: 20px;    
+}
+
+#brancoEua5 {
+    background-color: white;
+    width: 400px;
+    height: 20px;     
+}
+
+#vermelhoEua6 {
+    background-color: #af0b26;
+    width: 400px;
+    height: 20px;    
+}
+
+#brancoEua6 {
+    background-color: white;
+    width: 400px;
+    height: 20px;     
+}
+
+#vermelhoEua7 {
+    background-color: #af0b26;
+    width: 400px;
+    height: 20px;    
+}
+
+
+
+
+
+/* Bandeira Líbano */
+
+#libano {    
+    margin-top: 110px;    
+}
+
+#vermelhoLibanoC {
+    background-color: red;
+    width: 400px;
+    height: 80px;  
+}
+
+#brancoLibano {
+    background-color: white;
+    width: 400px;
+    height: 160px; 
+}
+
+#imgLibano {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#vermelhoLibanoB {
+    background-color: red;
+    width: 400px;
+    height: 80px;  
+}
+
+
+
+
+/* Bandeira Barbados */
+
+#barbados {    
+    margin-top: 180px;    
+}
+
+#azulBarbadosE {
+    background-color: #00267f;
+    width: 100px;
+    height: 240px;  
+}
+
+#amareloBarbados {
+    background-color: #ffc726;
+    width: 200px;
+    height: 240px;
+    margin-top: -240px;
+    margin-left: 100px;
+}
+
+img#barbados {
+    width: 150px;
+    height: 150px;
+    margin-top: 55px;
+}
+
+#azulBarbadosD {
+    background-color: #00267f;
+    width: 100px;
+    height: 240px;
+    margin-top: -240px;
+    margin-left: 300px;  
+}
+
+
+
+/* Bandeira Grécia */
+
+#grecia {    
+    margin-top: 110px;    
+}
+
+#bandeiraGrecia {
+    width: 400px;
+    height: 240px;
+    border: 1px solid black;
+}
+
+#cruzGrecia {
+    background-color: #0d5eaf;
+    width: 150px;
+    height: 150px;
+}
+
+#cruzGreciaV {
+    background-color: white;
+    width: 30px;
+    height: 150px;
+    margin-left: 60px;
+}
+
+#cruzGreciaH {
+    background-color: white;
+    width: 150px;
+    height: 30px;
+    margin-top: -90px;
+}
+
+#azulGrecia1 {
+    background-color: #0d5eaf;
+    width: 250px;
+    height: 30px;
+    margin-top: -150px;
+    margin-left: 150px;
+}
+
+#brancoGrecia1 {
+    background-color: white;
+    width: 250px;
+    height: 30px;
+    margin-left: 150px;    
+}
+
+#azulGrecia2 {
+    background-color: #0d5eaf;
+    width: 250px;
+    height: 30px;
+    margin-left: 150px;    
+}
+
+#brancoGrecia2 {
+    background-color: white;
+    width: 250px;
+    height: 30px;
+    margin-left: 150px;    
+}
+
+#azulGrecia3 {
+    background-color: #0d5eaf;
+    width: 250px;
+    height: 30px;
+    margin-left: 150px; 
+}    
+
+#brancoGrecia3 {
+    background-color: white;
+    width: 400px;
+    height: 30px;
+     
+}
+
+#azulGrecia4 {
+    background-color: #0d5eaf;
+    width: 400px;
+    height: 30px;
+}    
+
+#brancoGrecia4 {
+    background-color: white;
+    width: 400px;
+    height: 30px;
+     
+}
+
+#azulGrecia5 {
+    background-color: #0d5eaf;
+    width: 400px;
+    height: 30px;
+}    
+
+
+
+
+/* Bandeira Brasil */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+
+#brasil {
+    margin-top: 130px; 
+    width: 400px;
+    height: 240px;
+    border: 1px solid black;
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bandeiraBr{
+    border: 1px solid black;
+	position: absolute;
+    margin-left: 200px;
+    margin-top: 130px;	
+	transform: translate(-50%,-50%);
+	width: 400px;
+	height: 240px;
+	background-color: transparent;
+}
+
+.retangulo{
+	background-color: green;
+	height: 100%;
+	width: 100%;
+}
+
+.losango{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);	
+	margin-bottom: 100px;
+	width: 0px;
+	border-left: 173.5px solid transparent;
+	border-right: 173.5px solid transparent;
+	border-bottom: 118.5px solid yellow;
+}
+
+.losango-baixo{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%) rotate(180deg);	
+	margin-top: 118px;
+	width: 0px;
+	border-left: 173.5px solid transparent;
+	border-right: 173.5px solid transparent;
+	border-bottom: 118.5px solid yellow;
+}
+
+.circulo{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background-color: blue;
+	width: 165px;
+	height: 165px;
+	border-radius: 50%;
+
+	overflow: hidden;
+}
+
+.faixa{
+	position: absolute;
+	margin-top: 70px;
+	background-color: #fff;
+	width: 500px;
+	height: 20px;	
+}
+
+.circle{
+	margin-top: 48px;
+	margin-left: -40px;
+	position: absolute;
+	z-index: 9;
+}
+
+#escritaFaixa {
+    font-size: 13px;
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+.bandeiraBr .h1 {
+	color: green;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	letter-spacing: 3px;
+}
+
+.circulo .star{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+
+}
+
+.circulo .star{
+
+	width: 0;
+	height:0;
+	
+	border-left: solid 8px transparent;
+	border-right: solid 8px transparent;
+	border-bottom: solid 5px white;
+	transform: rotatez(35deg);
+}
+
+
+.circulo .star:before{
+	position: absolute;
+	display:block;
+	width: 0;
+	height:0;
+	top: -3.6px;
+    left: -5px;
+	border-left: solid 2px transparent;
+	border-right: solid 2px transparent;
+	border-bottom: solid 5px white;
+	transform: rotatez(-35deg);
+	content:'';
+}
+
+
+.circulo .star:after{
+	position:absolute;
+	display:block;
+	width: 0;
+	height:0;
+	top: -0px;
+	left: -8px;
+	border-left: solid 8px transparent;
+	border-right: solid 8px transparent;
+	border-bottom: solid 5px white;
+	transform: rotatez(-70deg);
+	content:'';
+}
