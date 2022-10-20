@@ -10,6 +10,6 @@ Bandeiras Criadas em HTML e CSS puro
   <li><a href='Bandeiras/Imagens/b_libano.png'>Líbano</a></li>
   <li><a href='Bandeiras/Imagens/b_barbados.png'>Barbados</a></li>
   <li><a href='Bandeiras/Imagens/grecia.png'>Grécia</a></li>
-  <li><a href='Bandeiras/Imagens/eua.png'>Estados Unidos</a></li>
-  <li><a href='Bandeiras/Imagens/brasil.png'>Brasil</a></li>
+  <li><a href='Bandeiras/Imagens/b_eua.png'>Estados Unidos</a></li>
+  <li><a href='Bandeiras/Imagens/b_brasil.png'>Brasil</a></li>
 </ul>
